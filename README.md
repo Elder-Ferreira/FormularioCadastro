@@ -1,3 +1,3 @@
 # FormularioCadastro
 
-Formulário com layout responsivo utilizando HTML e CSS.
+Formulário de cadastro com layout responsivo utilizando HTML e CSS.
