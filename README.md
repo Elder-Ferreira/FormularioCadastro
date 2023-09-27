@@ -1,6 +1,6 @@
 # FormularioCadastro
 
-Desenvolvimwnto de um formulário de cadastro web com layout responsivo utilizando HTML e CSS.
+Desenvolvimento de um formulário de cadastro web com layout responsivo utilizando HTML e CSS.
 
 ![image](https://github.com/Elder-Ferreira/FormularioCadastro/assets/103782980/41bb756b-1e8f-467d-8c87-cc13b8c82be6)
 Visualização da página em uma tela com resolução maior que 1330px.
